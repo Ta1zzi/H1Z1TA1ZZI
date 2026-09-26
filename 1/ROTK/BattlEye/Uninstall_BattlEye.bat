@@ -1,0 +1,3 @@
+@echo off
+echo Uninstalling BattlEye...
+..\H1Z1_BE.exe 4

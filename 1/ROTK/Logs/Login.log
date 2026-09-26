@@ -1,0 +1,6 @@
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9569	4	445680344	BaseApi constructed (LoginUdp_16) defaultPort=0
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9570	4	445680344	BaseManager::ServiceStart - Extracting any inifile settings for the manager. section=CryptoBaseApi, inifileCrc64=1216828912104853951
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9571	4	445680344	BaseUdpManager service started (LoginUdp_16) threading=F compression=T
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9572	4	445680344	BaseApi connect request (LoginUdp_16) address=162.19.94.95:20045 timeout=10000 autoReconnect=0
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9595	4	445680552	BaseApi connection completed (LoginUdp_16) address=162.19.94.95:20045
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9596	4	445680839	LoginServer authentication=1, resultCode=0, status=1

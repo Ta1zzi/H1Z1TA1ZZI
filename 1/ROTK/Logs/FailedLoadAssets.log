@@ -1,0 +1,6 @@
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9188	2	445676677	AssetDeliveryIndirect::GetAssetData failed, asset not in pack files: OcclusionZones.xml
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9214	2	445676712	AssetDeliveryIndirect::GetAssetData failed, asset not in pack files: TerrainCalendarDefinitions.txt
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9317	2	445676722	AssetDeliveryIndirect::GetAssetData failed, asset not in pack files: ActorRumbleEffectDefinitions.xml
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9318	2	445676722	AssetDeliveryIndirect::GetAssetData failed, asset not in pack files: ActorLightsaberTrailDefinitions.xml
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9339	2	445676733	AssetDeliveryIndirect::GetAssetData failed, asset not in pack files: .map
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9340	2	445676733	AssetDeliveryIndirect::GetAssetData failed, asset not in pack files: Mannequins.txt

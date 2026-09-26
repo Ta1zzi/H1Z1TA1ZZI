@@ -1,0 +1,23 @@
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9565	4	445680310	ClientInGamePurchaseStoreManager::Initialize - Starting up with automatic data reload enabled, dataPath=.\Resources\Marketing\, schemaFilepath=.\Resources\Marketing\\MarketingDataClientSchema.xml.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9566	4	445680310	EnableAutomaticUpdates - enabled=0, dataRefreshHour=00:00GMT.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9567	4	445680310	MarketingDataUpdater - Starting up, dataLoaderType=FlatFileLoader, reloadFileName=marketingdata.reload.txt.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9574	4	445680348	MarketingDataUpdater - Load attempt, type=Forced.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9575	4	445680348	Loading new marketing data.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9576	4	445680348	LoadRecordSetFromFile beginning read .\Resources\Marketing\ClientStoreBillboards.txt
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9577	4	445680348	LoadRecordSetFromFile: file .\Resources\Marketing\ClientStoreBillboards.txt numberOfRows read: 2
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9578	4	445680348	LoadRecordSetFromFile beginning read .\Resources\Marketing\ClientStoreBillboardPanels.txt
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9579	4	445680348	LoadRecordSetFromFile: file .\Resources\Marketing\ClientStoreBillboardPanels.txt numberOfRows read: 36
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9580	4	445680348	LoadRecordSetFromFile beginning read .\Resources\Marketing\ClientStorePortalCategories.txt
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9581	4	445680348	LoadRecordSetFromFile: file .\Resources\Marketing\ClientStorePortalCategories.txt numberOfRows read: 0
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9582	4	445680348	LoadRecordSetFromFile beginning read .\Resources\Marketing\Configuration.txt
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9584	4	445680348	LoadRecordSetFromFile failed read
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9585	4	445680348	MarketingDataUpdater - Next update will occur at 2026-09-28T00:05:00+08:00 (PST)
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9586	4	445680366	MarketingDataUpdater - Marketing data load complete, result=0, totalTime=18 ms.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9587	4	445680383	MarketingDataUpdater - HandleUpdateComplete
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9588	4	445680383	ClientInGamePurchaseStoreManager::OnDataUpdate - Loading new definition data from the data source.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9589	2	445680383	FAILED to load any storePortalCategory entries.
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9590	4	445680383	SUCCESSFULLY loaded 36 storeBillboardPanel entry(s).
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9591	2	445680383	FAILED to find any billboard definitions, entryKey=1
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9592	2	445680383	FAILED to validate billboard, billboard=(billboardId=1, locationId=1, panelCount=0, panels=()).
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9593	4	445680383	SUCCESSFULLY loaded 1 storeBillboard entry(s).
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9594	4	445680383	ClientInGamePurchaseStoreManager::OnDataUpdate - Data load complete, totalTime=0 ms.

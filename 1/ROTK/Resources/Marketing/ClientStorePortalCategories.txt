@@ -1,0 +1,1 @@
+#category_id^name_id^description_id^image^image_tint^display_order^shortcut_id^shortcut_type^shortcut_value^store_id^

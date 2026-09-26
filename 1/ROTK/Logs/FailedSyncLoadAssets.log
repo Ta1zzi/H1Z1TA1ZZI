@@ -1,0 +1,9 @@
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	98	2	445676251	SynchronousGetAssetData failed, local version was not current: ime.xml
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	101	2	445676251	SynchronousGetAssetData failed, local version was not current: ime.xml
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	105	2	445676262	SynchronousGetAssetData failed, local version was not current: InputProfile_Default.xml
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	138	2	445676264	SynchronousGetAssetData failed, local version was not current: InputProfile_User.xml
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9190	2	445676677	SynchronousGetAssetData failed, local version was not current: .xml
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9308	2	445676715	SynchronousGetAssetData failed, local version was not current: ControllerElements.txt
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9311	2	445676715	SynchronousGetAssetData failed, local version was not current: HelpCreditsElements.txt
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9332	2	445676732	SynchronousGetAssetData failed, local version was not current: SavedClientTimers.txt
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9338	2	445676732	SynchronousGetAssetData failed, local version was not current: GlobalClientAreas.xml

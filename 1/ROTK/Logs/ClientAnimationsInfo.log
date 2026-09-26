@@ -1,0 +1,5 @@
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9665	4	445680841	AnimationDefinitionManager::LoadDefinitions
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9666	4	445680841	AnimationDefinitionManager::LoadDefinitions, InteractionAnimationDefinitionCount=20
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9667	4	445680841	AnimationDefinitionManager::LoadDefinitions, EmoteAnimationDefinitionCount=112
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9668	4	445680841	AnimationDefinitionManager::LoadDefinitions, EmoteAnimationSlotDefinitionCount=12
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9669	4	445680841	AnimationDefinitionManager::LoadDefinitions, InputActionKeyToEmoteAnimationSlotICount=12

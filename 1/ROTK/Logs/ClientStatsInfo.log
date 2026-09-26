@@ -1,0 +1,11 @@
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	156	4	445676334	ClientGameStatDefinitionManager::LoadDefinitions, pingTierTableCount=5
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	157	4	445676335	ClientGameStatDefinitionManager::LoadDefinitions, pingVarianceTierTableCount=5
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	158	4	445676335	ClientGameStatDefinitionManager::LoadDefinitions, networkQualityPcntTierTableCount=4
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	159	4	445676335	ClientGameStatDefinitionManager::LoadDefinitions, gpuBoundPcntTierTableCount=4
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	160	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, statDefinitionTypeHashMap.Count=1
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	161	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, statDefinitionHashListMap.Count=11
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	162	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, statManagerDefinitionHashListMap.Count=6
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	163	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, statManagerIdPlayerStatIdHashListMap.Count=11
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	164	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, statIdPlayerStatManagerIdHashListMap.Count=11
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	165	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, gameModeIdPlayerStatManagerIdHashListMap.Count=23
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	166	4	445676335	PlayerStatDefinitionManager::LoadDefinitions, playerStatManagerIdGameModeIdHashListMap.Count=23

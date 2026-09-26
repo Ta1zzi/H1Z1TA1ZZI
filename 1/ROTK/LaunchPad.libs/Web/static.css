@@ -1,0 +1,84 @@
+* {
+	box-sizing: border-box;
+}
+html,
+body {
+	margin: 0;
+}
+body {
+	background: url('images/background.jpg') center top no-repeat #222222;
+	padding-top: 14px;
+}
+#lpContainer {
+	font: 12px "Arial", sans-serif;
+	margin: 0 auto;
+	width: 883px;
+}
+#lpContainer #lpHeader {
+	height: 120px;
+	position: relative;
+	width: 100%;
+}
+#lpContainer #lpHeader #lpHeaderItems {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 5px 10px;
+}
+#lpContainer #lpHeader #lpHeaderItems #soeLogo {
+	background: url('images/daybreak-logo.png') left top no-repeat transparent;
+	float: left;
+	height: 18px;
+	width: 115px;
+}
+#lpContainer #lpHeader #lpHeaderItems #soeAccount {
+	float: right;
+}
+#lpContainer #lpHeader #lpHeaderItems #soeAccount #windowControls a {
+	display: inline-block;
+	width: 31px;
+	height: 17px;
+}
+#lpContainer #lpHeader #lpHeaderItems #soeAccount #windowControls a.window-minimize {
+	background: url('images/minimize-sprite.png') center top no-repeat;
+	margin-left: 10px;
+}
+#lpContainer #lpHeader #lpHeaderItems #soeAccount #windowControls a.window-close {
+	background: url('images/close-sprite.png') center top no-repeat;
+	margin-left: 2px;
+}
+#lpContainer #lpHeader #lpHeaderItems #soeAccount #windowControls a:hover {
+	background-position: center bottom;
+}
+#lpContainer #lpContent {
+	height: 429px;
+	position: relative;
+}
+#lpContainer #lpContent #lpModal {
+	background-color: rgba(0, 0, 0, 0.5);
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#lpContainer #lpContent #lpModal > div {
+	color: white;
+	height: 388px;
+	margin: 20px auto;
+	padding: 160px 30px 0;
+	text-align: center;
+	width: 432px;
+}
+#lpContainer #lpContent #lpModal > div#spinnerModal {
+	padding-top: 120px;
+}
+#lpContainer #lpContent #lpModal > div p {
+	margin-top: 0;
+}
+#lpContainer #lpContent #lpModal > div a {
+	color: #b2bed2;
+	text-decoration: none;
+	white-space: nowrap;
+}

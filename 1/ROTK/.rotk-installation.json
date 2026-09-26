@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "installId": "6ea5fc42-a595-408e-b03f-dae1bdc0e6e5",
+  "clientBuildId": "h1z1-1.0.326.439939",
+  "sourceRoot": "D:\\Steam\\steamapps\\common\\H1Z1",
+  "installedAt": "2026-09-26T18:54:37.123Z",
+  "launcherVersion": "2.0.17",
+  "patchVersion": "nosteam-shim-1+vivox5-compat-1+crouch-parity-v12+shotgun-sprint-v3",
+  "criticalHashes": {
+    "H1Z1.exe": "5f5a4922b0671e4ed8fd415e753be096ef7a17e360ae80e025f11544c8db9261",
+    "ClientConfig.ini": "97e538cabd7aab5955f29d12d3a820c9ed8f0ae7fa9cba0d68b2cc02839eb597",
+    "steam_api64.dll": "71af8666392acad2080a816b9f1196fe9ccb950e1db8a549f8312c4d231f55a8"
+  }
+}

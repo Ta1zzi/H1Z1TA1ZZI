@@ -1,0 +1,6 @@
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9196	4	445676684	DataCenterDefinitionManager::Clear
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9197	4	445676684	DataCenterDefinitionManager::LoadDefinitions
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9198	4	445676684	DataCenterDefinitionManager::LoadDefinitions, dataCenterDefinitionHashListCount=4
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9199	4	445676685	DataCenterDefinitionManager::LoadDefinitions, dataCenterCountryMappingDefinitionHashList=310
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9200	4	445676685	DataCenterDefinitionManager::LoadDefinitions, currencyTypes=18, mappings=18
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9202	4	445676685	DataCenterDefinitionManager::LoadDefinitions returning 1

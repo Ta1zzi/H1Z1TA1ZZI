@@ -1,0 +1,1 @@
+LaunchPad.exe Updates:enable=0 Updates:PatchSelf=1 launchPoint=steam launchArgs=STEAM_ENABLED=1

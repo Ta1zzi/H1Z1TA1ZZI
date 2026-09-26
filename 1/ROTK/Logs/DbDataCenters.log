@@ -1,0 +1,63 @@
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9195	4	445676684	Constructed
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9201	4	445676685	DbDataCenters::OnLoad, has 4 entries
+2026-09-27	03:31:54	DESKTOP-BHG05LP	1790451111	9548	4	445678086	UpdateAvailable
+2026-09-27	03:31:54	DESKTOP-BHG05LP	1790451111	9549	4	445678086	InsertOrUpdate Id=1(LVS) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:54	DESKTOP-BHG05LP	1790451111	9550	4	445678086	InsertOrUpdate Id=2(AMS) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:54	DESKTOP-BHG05LP	1790451111	9551	4	445678086	InsertOrUpdate Id=4(TKO) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:54	DESKTOP-BHG05LP	1790451111	9552	4	445678086	InsertOrUpdate Id=3(SYD) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9682	4	445680886	UpdateAvailable
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9683	4	445680886	InsertOrUpdate Id=1(LVS) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9684	4	445680886	InsertOrUpdate Id=2(AMS) Available=0 Selected=0 Home=1 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9685	4	445680886	InsertOrUpdate Id=4(TKO) Available=0 Selected=1 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9686	4	445680886	InsertOrUpdate Id=3(SYD) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9687	4	445680887	UpdateAvailable
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9688	4	445680887	InsertOrUpdate Id=1(LVS) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9689	4	445680887	InsertOrUpdate Id=2(AMS) Available=0 Selected=0 Home=1 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9690	4	445680887	InsertOrUpdate Id=4(TKO) Available=0 Selected=1 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:57	DESKTOP-BHG05LP	1790451111	9691	4	445680887	InsertOrUpdate Id=3(SYD) Available=0 Selected=0 Home=0 Ping=2147483647 Quality=low Message=Unable to connect to this region.Please choose another.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9780	4	445682089	UpdateAvailable
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9782	4	445682090	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9783	4	445682090	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9784	4	445682090	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9785	4	445682090	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9786	4	445682092	UpdateAvailable
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9787	4	445682092	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9788	4	445682092	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9789	4	445682092	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9790	4	445682092	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9793	4	445682294	UpdateAvailable
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9795	4	445682294	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9796	4	445682294	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=209 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9797	4	445682294	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9798	4	445682294	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9799	4	445682294	BestDC: Id=2
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9803	4	445682297	UpdateAvailable
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9804	4	445682297	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9805	4	445682297	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=209 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9806	4	445682297	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9807	4	445682297	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9808	4	445682297	BestDC: Id=2
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9811	4	445682325	UpdateAvailable
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9812	4	445682325	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9813	4	445682325	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=209 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9814	4	445682325	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=238 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9815	4	445682325	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9816	4	445682325	BestDC: Id=2
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9817	4	445682327	UpdateAvailable
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9818	4	445682328	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9819	4	445682328	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=209 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9820	4	445682328	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=238 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9821	4	445682328	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9822	4	445682328	BestDC: Id=2
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9825	4	445684346	UpdateAvailable
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9826	4	445684346	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2259 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9827	4	445684346	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=209 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9828	4	445684346	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=238 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9829	4	445684346	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9830	4	445684346	BestDC: Id=2
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9831	4	445684349	UpdateAvailable
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9832	4	445684349	InsertOrUpdate Id=1(LVS) Available=1 Selected=0 Home=0 Ping=2259 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9833	4	445684349	InsertOrUpdate Id=2(AMS) Available=1 Selected=0 Home=1 Ping=209 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9834	4	445684349	InsertOrUpdate Id=4(TKO) Available=1 Selected=1 Home=0 Ping=238 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9835	4	445684349	InsertOrUpdate Id=3(SYD) Available=1 Selected=0 Home=0 Ping=2147483647 Quality=low Message=A different region may provide a better experience.
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9836	4	445684349	BestDC: Id=2

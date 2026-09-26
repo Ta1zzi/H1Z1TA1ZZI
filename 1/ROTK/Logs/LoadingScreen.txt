@@ -1,0 +1,8 @@
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	139	4	445676266	Entering ShowLoadingScreen(). reason=PreInitialize
+2026-09-27	03:31:52	DESKTOP-BHG05LP	1790451111	140	4	445676266	ShowLoadingScreen() exiting; loading screen is now showing
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9336	4	445676732	Entering ShowLoadingScreen(). reason=StartLoadingScreen:PreInitialize
+2026-09-27	03:31:53	DESKTOP-BHG05LP	1790451111	9337	4	445676732	ShowLoadingScreen() exiting; loading screen is now showing
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9560	4	445680309	Entering ShowLoadingScreen(). reason=Login
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9561	4	445680309	ShowLoadingScreen() exiting; loading screen is now showing
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9563	4	445680309	Entering ShowLoadingScreen(). reason=Login
+2026-09-27	03:31:56	DESKTOP-BHG05LP	1790451111	9564	4	445680309	ShowLoadingScreen() exiting; loading screen is now showing

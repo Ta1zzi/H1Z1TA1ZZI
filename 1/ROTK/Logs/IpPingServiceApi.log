@@ -1,0 +1,26 @@
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9762	4	445682084	BaseApi constructed (IpPingServiceUdp_1) defaultPort=20300
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9763	4	445682084	Ping rate for () changed to 12 pings per minute
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9764	4	445682084	BaseApi constructed (IpPingServiceUdp_1) defaultPort=20300
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9765	4	445682084	Ping rate for () changed to 12 pings per minute
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9766	4	445682084	BaseApi constructed (IpPingServiceUdp_1) defaultPort=20300
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9767	4	445682084	Ping rate for () changed to 12 pings per minute
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9768	4	445682084	BaseApi constructed (IpPingServiceUdp_1) defaultPort=20300
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9769	4	445682084	Ping rate for () changed to 12 pings per minute
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9770	4	445682084	Attempting to connect to 66.51.99.99:20140
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9771	4	445682084	BaseManager::ServiceStart - Extracting any inifile settings for the manager. section=BaseApi, inifileCrc64=1216828912104853951
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9772	4	445682085	BaseUdpManager service started (IpPingServiceUdp_1) threading=F compression=F
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9773	4	445682085	Attempting to connect to 162.19.94.95:20140
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9774	4	445682085	BaseManager::ServiceStart - Extracting any inifile settings for the manager. section=BaseApi, inifileCrc64=1216828912104853951
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9775	4	445682085	BaseUdpManager service started (IpPingServiceUdp_1) threading=F compression=F
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9776	4	445682085	Attempting to connect to 15.235.227.5:20140
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9777	4	445682085	BaseManager::ServiceStart - Extracting any inifile settings for the manager. section=BaseApi, inifileCrc64=1216828912104853951
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9778	4	445682085	BaseUdpManager service started (IpPingServiceUdp_1) threading=F compression=F
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9792	4	445682294	Added ping response for (162.19.94.95:20140): value(209) m_lastPingTimes/count(1) m_totalPingTimes(209) m_failedPings(0) Average(209) LossPercent(0.000000)
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9794	4	445682294	Connect complete; Recording ping time of 209 ms for (162.19.94.95:20140)
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9800	4	445682296	Attempting to connect to 51.161.172.128:20140
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9801	4	445682296	BaseManager::ServiceStart - Extracting any inifile settings for the manager. section=BaseApi, inifileCrc64=1216828912104853951
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9802	4	445682296	BaseUdpManager service started (IpPingServiceUdp_1) threading=F compression=F
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9809	4	445682323	Added ping response for (15.235.227.5:20140): value(238) m_lastPingTimes/count(1) m_totalPingTimes(238) m_failedPings(0) Average(238) LossPercent(0.000000)
+2026-09-27	03:31:58	DESKTOP-BHG05LP	1790451111	9810	4	445682323	Connect complete; Recording ping time of 238 ms for (15.235.227.5:20140)
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9823	4	445684344	Added ping response for (66.51.99.99:20140): value(2259) m_lastPingTimes/count(1) m_totalPingTimes(2259) m_failedPings(0) Average(2259) LossPercent(0.000000)
+2026-09-27	03:32:00	DESKTOP-BHG05LP	1790451111	9824	4	445684344	Connect complete; Recording ping time of 2259 ms for (66.51.99.99:20140)

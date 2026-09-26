@@ -1,0 +1,3 @@
+@echo off
+echo Installing BattlEye...
+..\H1Z1_BE.exe 1 0

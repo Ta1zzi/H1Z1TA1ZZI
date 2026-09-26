@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Profile name="Default" version="13">
+
+  <ActionSet name="Generic">
+
+
+    <Action name="Escape" displayName="UI.OpenMenu" unbindable="true" ignoreModifiers="true" events="Press">
+
+      <Trigger>Escape</Trigger>
+
+    </Action>
+
+    <Action name="ToggleDebugConsole" displayName="UI.ToggleDebugConsole" unbindable="true" ignoreModifiers="false" events="Press">
+
+      <Trigger>Tilde</Trigger>
+
+      <Trigger>Kanji</Trigger>
+
+    </Action>
+
+    <Action name="HostSpectator" displayName="UI.HostSpectator" events="Press">
+
+      <Trigger>Alt+Period</Trigger>
+
+    </Action>
+
+    <Action name="Reply" displayName="UI.Reply" events="Press" ignoreModifiers="true">
+
+      <Trigger>Backspace</Trigger>
+
+    </Action>
+
+    <Action name="TogglePerformance" displayName="UI.TogglePerformance">
+
+      <Trigger>Alt_Left+F</Trigger>
+
+      <Trigger>Alt_Right+F</Trigger>
+
+    </Action>
+
+    <Action name="CycleMainWindowTabs" displayName="UI.CycleMainWindowTabs" unbindable="true" events="Press">
+
+      <Trigger>Control+Tab</Trigger>
+
+    </Action>
+
+    <Action name="ToggleFullscreen" displayName="UI.ToggleFullScreen" unbindable="true" events="Press">
+
+      <Trigger>Alt+Return</Trigger>
+
+    </Action>
+
+    <Action name="Screenshot" displayName="UI.Screenshot" events="Press">
+
+      <Trigger>PrintScreen</Trigger>
+
+    </Action>
+
+    <Action name="ToggleMouse" displayName="UI.ToggleMouseControl" events="Press" ignoreModifiers="true" version="4">
+
+      <Trigger>Minus</Trigger>
+
+    </Action>
+
+    <Action name="OpenMap" displayName="UI.OpenMap" events="Press" ignoreModifiers="false" version="5">
+
+      <Trigger>M</Trigger>
+
+      <Trigger>Gamepad_1_Button_Pov0Right</Trigger>
+
+    </Action>
+
+	<Action name="ToggleVehicleSelect" displayName="UI.ToggleVehicleSelect" events="Press" ignoreModifiers="false" version="5">
+
+      <Trigger>V</Trigger>
+
+    </Action>
+
+	<Action name="ToggleHostPanel" displayName="UI.OpenHostPanel" events="Press" ignoreModifiers="false" version="5">
+
+      <Trigger>O</Trigger>
+
+      <Trigger>Gamepad_1_Button_Pov0Left</Trigger>
+
+    </Action>
+
+    <Action name="VoiceVolumeUp" displayName="UI.VoiceVolumeUp" ignoreModifiers="true">
+
+      <Trigger>KP_Add</Trigger>
+
+    </Action>
+
+    <Action name="VoiceVolumeDown" displayName="UI.VoiceVolumeDown" ignoreModifiers="true">
+
+      <Trigger>KP_Subtract</Trigger>
+
+    </Action>
+
+    <Action name="VoiceVolumeMute" displayName="UI.VoiceVolumeMute" ignoreModifiers="true">
+
+      <Trigger>KP_Enter</Trigger>
+
+    </Action>
+
+    <Action name="VoiceChatProximity" displayName="UI.VoiceChatProximity" ignoreModifiers="true">
+
+      <Trigger>KP_4</Trigger>
+
+    <Trigger>Mouse_2</Trigger>
+
+    </Action>
+
+    <Action name="VoiceChatGuild" displayName="UI.VoiceChatGuild" ignoreModifiers="true" version="2">
+
+    </Action>
+
+    <Action name="VoiceChatGroup" displayName="UI.VoiceChatGroup" ignoreModifiers="true" version="1">
+
+      <Trigger>KP_1</Trigger>
+
+    </Action> 
+
+    <Action name="VoiceChatCustom" displayName="UI.VoiceChatSpectate" ignoreModifiers="true" version="1">
+
+      <Trigger>KP_7</Trigger>
+
+    </Action>
+
+    <Action name="ToggleMuteVoice" displayName="UI.ToggleMuteVoice" events="Press" ignoreModifiers="false" version="4">
+
+      <Trigger>Alt+M</Trigger>
+
+    </Action>
+
+    <Action name="VoiceMacro" displayName="UI.VoiceMacro" ignoreModifiers="true" version="2">
+
+      <Trigger>PageDown</Trigger>
+
+    </Action>
+
+	<Action name="ToggleNetworkStats" displayName="UI.ToggleNetworkStats"></Action>
+
+    <Action name="ToggleUI" displayName="UI.ToggleUI">
+
+      <Trigger>Control+F10</Trigger>
+
+    </Action>
+
+    <Action name="StartImageCapture" displayName="UI.StartImageCapture">
+
+      <Trigger>Control+F12</Trigger>
+
+    </Action>
+
+    <Action name="ToggleVideoCapture" displayName="UI.ToggleVideoCapture" ignoreModifiers="true">
+
+      <Trigger>PageUp</Trigger>
+
+    </Action>
+
+    <Action name="ToggleHudIndicators" displayName="UI.ToggleHudIndicators" version="2">
+
+      <Trigger>Control+H</Trigger>
+
+    </Action>
+
+    <Action name="ToggleSpectateChat" displayName="UI.ToggleSpectateChat" events="Press">
+
+      <Trigger>Alt+P</Trigger>
+
+    </Action>
+
+    <!--
+
+    <Action name="ToggleMarketplace" displayName="UI.ToggleMarketplace" events="Press" ignoreModifiers="false">
+
+      <Trigger>U</Trigger>
+
+    </Action>
+
+    -->
+
+    <Action name="ToggleInventory" displayName="UI.ToggleInventory" events="Press" ignoreModifiers="false">
+
+      <Trigger>Tab</Trigger>
+
+      <Trigger>I</Trigger>
+
+      <Trigger>Gamepad_1_Button_13</Trigger>
+
+    </Action>
+
+    <Action name="ToggleCamera" displayName="UI.ToggleCamera" ignoreModifiers="true" version="1">
+
+      <Trigger>T</Trigger>
+
+    </Action>
+
+    <Action name="ToggleMuteAll" displayName="UI.MuteAll" events="Press" ignoreModifiers="false">
+
+      <Trigger>Control+M</Trigger>
+
+    </Action>
+
+	<Action name="PointAndMute" displayName="UI.PointAndMute" events="Press" ignoreModifiers="false">
+
+	  <Trigger>Control+T</Trigger>
+
+	</Action>
+
+    <Action name="DecreaseRenderDistance" displayName="UI.DecreaseRenderDistance" events="Press">
+
+      <Trigger>Bracket_Left</Trigger>
+
+    </Action>
+
+    <Action name="IncreaseRenderDistance" displayName="UI.IncreaseRenderDistance" events="Press">
+
+      <Trigger>Bracket_Right</Trigger>
+
+    </Action>
+
+    <Action name="ToggleStayTogetherOptIn" displayName="UI.ToggleOptIn" ignoreModifiers="true" events="Press" version="2">
+
+      <Trigger>O</Trigger>
+
+    </Action>
+
+    <Action name="ToggleInMatchChallenges" displayName="UI.ToggleInMatchChallenges" ignoreModifiers="true" events="Press">
+
+      <Trigger>U</Trigger>
+
+    </Action>
+
+  
+    <Action name="ToggleWeaponStance" version="1" displayName="Weapon Stance (PS3)" events="Press" ignoreModifiers="true"><Trigger>V</Trigger></Action>
+    <Action name="ROTKConsole" version="1" displayName="Console" events="Press" ignoreModifiers="false"><Trigger>N</Trigger></Action>
+</ActionSet>
+
+  <ActionSet name="QuickChat">
+
+    <Action name="QuickChat1" displayName="UI.QuickChat1" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat2" displayName="UI.QuickChat2" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat3" displayName="UI.QuickChat3" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat4" displayName="UI.QuickChat4" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat5" displayName="UI.QuickChat5" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat6" displayName="UI.QuickChat6" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat7" displayName="UI.QuickChat7" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat8" displayName="UI.QuickChat8" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat9" displayName="UI.QuickChat9" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="QuickChat10" displayName="UI.QuickChat10" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+  <ActionSet name="Emotes">
+
+    <Action name="Agree" displayName="UI.Agree" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Applause" displayName="UI.Applause" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Beckon" displayName="UI.Beckon" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="BirdCannon" displayName="UI.BirdCannon" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="BootySlap" displayName="UI.BootySlap" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="CrotchChop" displayName="UI.CrotchChop" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="CryBaby" displayName="UI.CryBaby" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="CutThroat" displayName="UI.CutThroat" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="DanceA" displayName="UI.DanceA" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="DoubleBird" displayName="UI.DoubleBird" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Grind" displayName="UI.Grind" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="HandsUp" displayName="UI.HandsUp" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Laugh" displayName="UI.Laugh" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="No" displayName="UI.No" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="NoWay" displayName="UI.NoWay" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="PelvicThrust" displayName="UI.PelvicThrust" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Point" displayName="UI.Point" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Salute" displayName="UI.Salute" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="SarcasmDance" displayName="UI.SarcasmDance" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ScrewYou2" displayName="UI.ScrewYou2" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ShimmyDance" displayName="UI.ShimmyDance" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="TeaBag" displayName="UI.WaveHelloB" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="WaveBye" displayName="UI.WaveBye" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="WaveHello" displayName="UI.WaveHello" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="WaveHelloB" displayName="UI.WaveHelloB" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="WereNotWorthy" displayName="UI.WereNotWorthy" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Beg" displayName="UI.Beg" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Fisticuffs" displayName="UI.Fisticuffs" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Flex" displayName="UI.Flex" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Hump" displayName="UI.Hump" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="FlexPoint" displayName="UI.FlexPoint" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ListenToTheCrowd" displayName="UI.ListenToTheCrowd" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="AirGuitar" displayName="UI.AirGuitar" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="BasicSalute" displayName="UI.BasicSalute" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="BlowKiss" displayName="UI.BlowKiss" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Bow" displayName="UI.Bow" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ButtScratchSniff" displayName="UI.ButtScratchSniff" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Cheer" displayName="UI.Cheer" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Cold" displayName="UI.Cold" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Confused" displayName="UI.Confused" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Crazy" displayName="UI.Crazy" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Cry" displayName="UI.Cry" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Curse" displayName="UI.Curse" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Curtsey" displayName="UI.Curtsey" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Doh" displayName="UI.Doh" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="FingerWaggle" displayName="UI.FingerWaggle" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="FistPump" displayName="UI.FistPump" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Frustrated" displayName="UI.Frustrated" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Flustered" displayName="UI.Flustered" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="GetAttention" displayName="UI.GetAttention" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Glare" displayName="UI.Glare" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="HandBeckon" displayName="UI.HandBeckon" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="HappyDance" displayName="UI.HappyDance" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Hot" displayName="UI.Hot" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="IsItRaining" displayName="UI.IsItRaining" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="JumpHooray" displayName="UI.JumpHooray" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Loser" displayName="UI.Loser" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="LookAway" displayName="UI.LookAway" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Listen" displayName="UI.Listen" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Moon" displayName="UI.Moon" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Neener" displayName="UI.Neener" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Orate" displayName="UI.Orate" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Pout" displayName="UI.Pout" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Ponder" displayName="UI.Ponder" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Peer" displayName="UI.Peer" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="RoyalWave" displayName="UI.RoyalWave" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="RudeSlap" displayName="UI.RudeSlap" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Sad" displayName="UI.Sad" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Scold" displayName="UI.Scold" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ScrewYouA" displayName="UI.ScrewYouA" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Scream" displayName="UI.Scream" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ShakeFist" displayName="UI.ShakeFist" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ShakeHead" displayName="UI.ShakeHead" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Shame" displayName="UI.Shame" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ShieldEyes" displayName="UI.ShieldEyes" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ShiverDownSpine" displayName="UI.ShiverDownSpine" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ShrugDance" displayName="UI.ShrugDance" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Sigh" displayName="UI.Sigh" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="SingleFingerWaggle" displayName="UI.SingleFingerWaggle" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Sniff" displayName="UI.Sniff" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Stretch" displayName="UI.Stretch" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Square" displayName="UI.Square" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Sulk" displayName="UI.Sulk" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="SwearOath" displayName="UI.SwearOath" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="TeaBagB" displayName="UI.TeaBagB" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="TapFoot" displayName="UI.TapFoot" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="TeabagLight" displayName="UI.TeabagLight" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Threaten" displayName="UI.Threaten" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Thanks" displayName="UI.Thanks" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ThumbsDown" displayName="UI.ThumbsDown" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ThumbsUp" displayName="UI.ThumbsUp" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Victory" displayName="UI.Victory" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Violin" displayName="UI.Violin" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Whistle" displayName="UI.Whistle" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Wave" displayName="UI.Wave" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Wince" displayName="UI.Wince" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="WooHoo" displayName="UI.WooHoo" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+  <ActionSet name="EmoteSlots">
+
+        <Action name="Emote01" displayName="UI.Emote01" ignoreModifiers="false" version="1">
+
+            <Trigger>F1</Trigger>
+
+        </Action>
+
+        <Action name="Emote02" displayName="UI.Emote02" ignoreModifiers="false" version="1">
+
+            <Trigger>F2</Trigger>
+
+        </Action>
+
+        <Action name="Emote03" displayName="UI.Emote03" ignoreModifiers="false" version="1">
+
+            <Trigger>F3</Trigger>
+
+        </Action>
+
+        <Action name="Emote04" displayName="UI.Emote04" ignoreModifiers="false" version="1">
+
+            <Trigger>F4</Trigger>
+
+        </Action>
+
+        <Action name="Emote05" displayName="UI.Emote05" ignoreModifiers="false" version="1">
+
+            <Trigger>F5</Trigger>
+
+        </Action>
+
+        <Action name="Emote06" displayName="UI.Emote06" ignoreModifiers="false" version="1">
+
+            <Trigger>F6</Trigger>
+
+        </Action>
+
+        <Action name="Emote07" displayName="UI.Emote07" ignoreModifiers="false" version="1">
+
+            <Trigger>F7</Trigger>
+
+        </Action>
+
+        <Action name="Emote08" displayName="UI.Emote08" ignoreModifiers="false" version="1">
+
+            <Trigger>F8</Trigger>
+
+        </Action>
+
+        <Action name="Emote09" displayName="UI.Emote09" ignoreModifiers="false" version="1">
+
+            <Trigger>F9</Trigger>
+
+        </Action>
+
+        <Action name="Emote10" displayName="UI.Emote10" ignoreModifiers="false" version="1">
+
+            <Trigger>F10</Trigger>
+
+        </Action>
+
+        <Action name="Emote11" displayName="UI.Emote11" ignoreModifiers="false" version="1">
+
+            <Trigger>F11</Trigger>
+
+        </Action>
+
+        <Action name="Emote12" displayName="UI.Emote12" ignoreModifiers="false" version="1">
+
+            <Trigger>F12</Trigger>
+
+        </Action>
+
+    </ActionSet>
+
+  <ActionSet name="GroundVehicle">
+
+    <Action name="CockpitFreelook" displayName="UI.CockpitFreeLook" ignoreModifiers="true" version="1">
+
+      <Trigger>Alt_Left</Trigger>
+
+    </Action>
+
+	<Action name="FlightModifier" displayName="UI.FlightModifier" ignoreModifiers="true" version="1">
+
+      <Trigger>Control_Left</Trigger>
+
+    </Action>
+
+    <Action name="MoveForward" displayName="UI.Accelerate" ignoreModifiers="true">
+
+      <Trigger>W</Trigger>
+
+      <Trigger>Gamepad_1_Button_7</Trigger>
+
+    </Action>
+
+    <Action name="MoveBackward" displayName="UI.Decelerate" ignoreModifiers="true">
+
+      <Trigger>S</Trigger>
+
+      <Trigger>Gamepad_1_Button_4</Trigger>
+
+    </Action>
+
+    <Action name="MoveLeft" displayName="UI.TurnLeft" ignoreModifiers="true">
+
+      <Trigger>A</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LX-</Trigger>
+
+    </Action>
+
+    <Action name="MoveRight" displayName="UI.TurnRight" ignoreModifiers="true">
+
+      <Trigger>D</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LX+</Trigger>
+
+    </Action>
+
+    <Action name="Handbrake" displayName="UI.Handbrake" ignoreModifiers="true">
+
+      <Trigger>Space</Trigger>
+
+      <Trigger>Gamepad_1_Button_5</Trigger>
+
+    </Action>
+
+    <Action name="YawLeft" displayName="UI.LookLeft" ignoreModifiers="true">
+
+      <Trigger>Left</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LZ-</Trigger>
+
+    </Action>
+
+    <Action name="YawRight" displayName="UI.LookRight" ignoreModifiers="true">
+
+      <Trigger>Right</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LZ+</Trigger>
+
+    </Action>
+
+    <Action name="PitchUp" displayName="UI.LookUp" ignoreModifiers="true">
+
+      <Trigger>Up</Trigger>
+
+      <Trigger>Gamepad_1_Axis_RZ-</Trigger>
+
+    </Action>
+
+    <Action name="PitchDown" displayName="UI.LookDown" ignoreModifiers="true">
+
+      <Trigger>Down</Trigger>
+
+      <Trigger>Gamepad_1_Axis_RZ+</Trigger>
+
+	</Action>
+
+	<Action name="CruiseMaxSpeed" displayName="UI.CruiseControl" ignoreModifiers="true">
+
+      <Trigger>Equals</Trigger>
+
+    </Action>
+
+    <Action name="Fire" displayName="UI.Fire" ignoreModifiers="true">
+
+      <Trigger>Mouse_0</Trigger>
+
+    </Action>
+
+    <Action name="SecondaryFire" displayName="UI.WeaponOptic" ignoreModifiers="true">
+
+      <Trigger>Mouse_1</Trigger>
+
+    </Action>
+
+    <Action name="Interact" displayName="UI.ExitVehicle" ignoreModifiers="true" version="2">
+
+      <Trigger>E</Trigger>
+
+      <Trigger>Gamepad_1_Button_0</Trigger>
+
+    </Action>
+
+    <Action name="OfferAcceptSeat" displayName="UI.OfferAcceptSeat" ignoreModifiers="false" version="1">
+
+      <Trigger>Control+G</Trigger>
+
+    </Action>
+
+	<Action name="VoteKickYes" displayName="UI.VoteKickYes" ignoreModifiers="false" version="1">
+
+      <Trigger>Control+Y</Trigger>
+
+    </Action>
+
+	<Action name="VoteKickNo" displayName="UI.VoteKickNo" ignoreModifiers="false" version="1">
+
+      <Trigger>Control+N</Trigger>
+
+    </Action>
+
+    <Action name="ConsumeItem1" displayName="UI.UseFirstAid" ignoreModifiers="true" version="1">
+
+      <Trigger>Q</Trigger>
+
+      <Trigger>Gamepad_1_Button_Pov0Up</Trigger>
+
+    </Action>
+
+    <Action name="ConsumeItem2" displayName="UI.UseFirstAid2" ignoreModifiers="true" version="2">
+
+      <Trigger>F</Trigger>
+
+      <Trigger>Gamepad_1_Button_Pov0Down</Trigger>
+
+    </Action>
+
+    <Action name="Deploy" displayName="UI.DeployKeybind" ignoreModifiers="true">
+
+      <Trigger>B</Trigger>
+
+    </Action>
+
+    <Action name="VehicleHeadLights" displayName="UI.HeadLights" ignoreModifiers="true">
+
+      <Trigger>L</Trigger>
+
+    </Action>
+
+    <Action name="VehicleMotorRun" displayName="UI.EngineToggle" ignoreModifiers="true" version="2">
+
+      <Trigger>K</Trigger>
+
+      <Trigger>Gamepad_1_Button_3</Trigger>
+
+    </Action>
+
+    <Action name="Reload" displayName="UI.ReloadPC" ignoreModifiers="true">
+
+      <Trigger>R</Trigger>
+
+    </Action>
+
+    <Action name="NextWeapon" displayName="UI.NextWeapon" ignoreModifiers="true" version="2">
+
+      <Trigger>MouseWheel-</Trigger>
+
+    </Action>
+
+    <Action name="PreviousWeapon" displayName="UI.PreviousWeapon" ignoreModifiers="true" version="2">
+
+      <Trigger>MouseWheel+</Trigger>
+
+    </Action>
+
+    <Action name="Slot1" displayName="UI.WeaponSlot1" ignoreModifiers="true">
+
+      <Trigger>1</Trigger>
+
+    </Action>
+
+    <Action name="Slot2" displayName="UI.WeaponSlot2" ignoreModifiers="true">
+
+      <Trigger>2</Trigger>
+
+    </Action>
+
+	 <Action name="Slot3" displayName="UI.WeaponSlot3" ignoreModifiers="true">
+
+      <Trigger>3</Trigger>
+
+    </Action>
+
+    <Action name="Slot4" displayName="UI.WeaponSlot4" ignoreModifiers="true">
+
+      <Trigger>4</Trigger>
+
+    </Action>
+
+	 <Action name="Slot5" displayName="UI.WeaponSlot5" ignoreModifiers="true">
+
+      <Trigger>5</Trigger>
+
+    </Action>
+
+    <Action name="Slot6" displayName="UI.WeaponSlot6" ignoreModifiers="true">
+
+      <Trigger>6</Trigger>
+
+    </Action>
+
+    <Action name="Afterburner" displayName="UI.Afterburner" ignoreModifiers="true">
+
+      <Trigger>Shift_Left</Trigger>
+
+      <Trigger>Shift_Right</Trigger>
+
+      <Trigger>Gamepad_1_Button_6</Trigger>
+
+    </Action>
+
+    <Action name="VehicleAbility" displayName="UI.VehicleAbility" ignoreModifiers="true">
+
+      <Trigger>X</Trigger>
+
+    </Action>
+
+    <Action name="VehicleHorn" displayName="UI.VehicleHorn" ignoreModifiers="true">
+
+      <Trigger>J</Trigger>
+
+      <Trigger>Gamepad_1_Button_1</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat1" displayName="UI.ChangeToSeat1">
+
+      <Trigger>Control+1</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat2" displayName="UI.ChangeToSeat2">
+
+      <Trigger>Control+2</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat3" displayName="UI.ChangeToSeat3">
+
+      <Trigger>Control+3</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat4" displayName="UI.ChangeToSeat4">
+
+      <Trigger>Control+4</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat5" displayName="UI.ChangeToSeat5">
+
+      <Trigger>Control+5</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat6" displayName="UI.ChangeToSeat6">
+
+      <Trigger>Control+6</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat7" displayName="UI.ChangeToSeat7">
+
+      <Trigger>Control+7</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat8" displayName="UI.ChangeToSeat8">
+
+      <Trigger>Control+8</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat9" displayName="UI.ChangeToSeat9">
+
+      <Trigger>Control+9</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat10" displayName="UI.ChangeToSeat10">
+
+      <Trigger>Control+0</Trigger>
+
+    </Action>
+
+    <Action name="Unstick" displayName="UI.Unstick">
+
+      <Trigger>Control+U</Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+	<ActionSet name="Aircraft">
+
+    <Action name="MoveForward" displayName="UI.ThrottleUp" ignoreModifiers="true">
+
+      <Trigger>W</Trigger>
+
+      <Trigger>Gamepad_1_Axist_LY+</Trigger>
+
+    </Action>
+
+    <Action name="MoveBackward" displayName="UI.ThrottleDown" ignoreModifiers="true">
+
+      <Trigger>S</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LY-</Trigger>
+
+    </Action>
+
+    <Action name="MoveLeft" displayName="UI.YawLeft" ignoreModifiers="true">
+
+      <Trigger>A</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LX-</Trigger>
+
+    </Action>
+
+    <Action name="MoveRight" displayName="UI.YawRight" ignoreModifiers="true">
+
+      <Trigger>D</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LX+</Trigger>
+
+    </Action>
+
+    <Action name="MoveUp" displayName="UI.Ascend" ignoreModifiers="true" version="4">
+
+      <Trigger>Space</Trigger>
+
+      <Trigger>Gamepad_1_Button_4</Trigger>
+
+    </Action>
+
+    <Action name="MoveDown" displayName="UI.Descend" ignoreModifiers="true" version="4">
+
+      <Trigger>Control_Left</Trigger>
+
+      <Trigger>Gamepad_1_Button_6</Trigger>
+
+    </Action>
+
+    <Action name="RollLeft" displayName="UI.RollLeft" ignoreModifiers="true">
+
+      <Trigger>Left</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LZ-</Trigger>
+
+    </Action>
+
+    <Action name="RollRight" displayName="UI.RollRight" ignoreModifiers="true">
+
+      <Trigger>Right</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LZ+</Trigger>
+
+    </Action>
+
+    <Action name="PitchUp" displayName="UI.PitchUp" ignoreModifiers="true">
+
+      <Trigger>Up</Trigger>
+
+      <Trigger>Gamepad_1_Axis_RZ-</Trigger>
+
+    </Action>
+
+    <Action name="PitchDown" displayName="UI.PitchDown" ignoreModifiers="true">
+
+      <Trigger>Down</Trigger>
+
+      <Trigger>Gamepad_1_Axis_RZ+</Trigger>
+
+    </Action>
+
+    <Action name="AnalogThrottle" displayName="UI.ThrottleAnalog" ignoreModifiers="true" />
+
+    <Action name="CruiseMaxSpeed" displayName="UI.CruiseControl" ignoreModifiers="true">
+
+      <Trigger>Equals</Trigger>
+
+    </Action>
+
+    <Action name="CockpitFreelook" displayName="UI.CockpitFreeLook" ignoreModifiers="true">
+
+      <Trigger>Alt_Left</Trigger>
+
+    </Action>
+
+    <Action name="CockpitLookLeft" displayName="UI.CockpitLookLeft" ignoreModifiers="true" />
+
+    <Action name="CockpitLookRight" displayName="UI.CockpitLookRight" ignoreModifiers="true" />
+
+    <Action name="CockpitLookUp" displayName="UI.CockpitLookUp" ignoreModifiers="true" />
+
+    <Action name="CockpitLookDown" displayName="UI.CockpitLookDown" ignoreModifiers="true" />
+
+    <Action name="ChangeCamera" displayName="UI.ChangeCamera" ignoreModifiers="true">
+
+      <Trigger>T</Trigger>
+
+    </Action>
+
+    <Action name="Fire" displayName="UI.Fire" ignoreModifiers="true">
+
+      <Trigger>Mouse_0</Trigger>
+
+      <Trigger>Gamepad_1_button_3</Trigger>
+
+    </Action>
+
+    <Action name="SecondaryFire" displayName="UI.WeaponOptic" ignoreModifiers="true">
+
+      <Trigger>Mouse_1</Trigger>
+
+      <Trigger>Gamepad_1_Button_1</Trigger>
+
+    </Action>
+
+    <Action name="Interact" displayName="UI.ExitVehicle" ignoreModifiers="true" version="2">
+
+      <Trigger>E</Trigger>
+
+    </Action>
+
+    <Action name="Deploy" displayName="UI.DeployKeybind" version="2">
+
+      <Trigger>Control+Space</Trigger>
+
+    </Action>
+
+    <Action name="Reload" displayName="UI.ReloadPC" ignoreModifiers="true">
+
+      <Trigger>R</Trigger>
+
+    </Action>
+
+    <Action name="NextWeapon" displayName="UI.NextWeapon" ignoreModifiers="true">
+
+      <Trigger>MouseWheel+</Trigger>
+
+      <Trigger>Gamepad_1_Button_5</Trigger>
+
+    </Action>
+
+    <Action name="PreviousWeapon" displayName="UI.PreviousWeapon" ignoreModifiers="true">
+
+      <Trigger>MouseWheel-</Trigger>
+
+      <Trigger>Gamepad_1_Button_7</Trigger>
+
+    </Action>
+
+    <Action name="Slot1" displayName="UI.WeaponSlot1" ignoreModifiers="true">
+
+      <Trigger>1</Trigger>
+
+    </Action>
+
+    <Action name="Slot2" displayName="UI.WeaponSlot2" ignoreModifiers="true">
+
+      <Trigger>2</Trigger>
+
+    </Action>
+
+    <Action name="Afterburner" displayName="UI.Afterburner" ignoreModifiers="true">
+
+      <Trigger>Shift_Left</Trigger>
+
+      <Trigger>Shift_Right</Trigger>
+
+    </Action>
+
+    <Action name="VehicleAbility" displayName="UI.VehicleAbility" ignoreModifiers="true">
+
+      <Trigger>X</Trigger>
+
+    </Action>
+
+    <Action name="Horn" displayName="UI.VehicleHorn">
+
+      <Trigger>J</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat1" displayName="UI.ChangeToSeat1">
+
+      <Trigger>Control+1</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat2" displayName="UI.ChangeToSeat2">
+
+      <Trigger>Control+2</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat3" displayName="UI.ChangeToSeat3">
+
+      <Trigger>Control+3</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat4" displayName="UI.ChangeToSeat4">
+
+      <Trigger>Control+4</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat5" displayName="UI.ChangeToSeat5">
+
+      <Trigger>Control+5</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat6" displayName="UI.ChangeToSeat6">
+
+      <Trigger>Control+6</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat7" displayName="UI.ChangeToSeat7">
+
+      <Trigger>Control+7</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat8" displayName="UI.ChangeToSeat8">
+
+      <Trigger>Control+8</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat9" displayName="UI.ChangeToSeat9">
+
+      <Trigger>Control+9</Trigger>
+
+    </Action>
+
+    <Action name="ChangeSeat10" displayName="UI.ChangeToSeat10">
+
+      <Trigger>Control+0</Trigger>
+
+    </Action>
+
+    <Action name="YawLeft" displayName="UI.YawLeft" ignoreModifiers="true">
+
+      <Trigger>Gamepad_1_Axis_RX-</Trigger>
+
+    </Action>
+
+    <Action name="YawRight" displayName="UI.YawRight" ignoreModifiers="true">
+
+      <Trigger>Gamepad_1_Axis_RX+</Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+  <ActionSet name="Infantry">
+
+    <Action name="MoveForward" displayName="UI.MoveForward" ignoreModifiers="true">
+
+      <Trigger>W</Trigger>
+
+      <Trigger>Up</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LY-</Trigger>
+
+    </Action>
+
+    <Action name="MoveBackward" displayName="UI.MoveBackward" ignoreModifiers="true">
+
+      <Trigger>S</Trigger>
+
+      <Trigger>Down</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LY+</Trigger>
+
+    </Action>
+
+    <Action name="StrafeLeft" displayName="UI.StrafeLeft" ignoreModifiers="true">
+
+      <Trigger>A</Trigger>
+
+      <Trigger>Left</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LX-</Trigger>
+
+    </Action>
+
+    <Action name="StrafeRight" displayName="UI.StrafeRight" ignoreModifiers="true">
+
+      <Trigger>D</Trigger>
+
+      <Trigger>Right</Trigger>
+
+      <Trigger>Gamepad_1_Axis_LX+</Trigger>
+
+    </Action>
+
+    <Action name="TurnLeft" displayName="UI.TurnLeft" ignoreModifiers="true">
+
+      <Trigger>Gamepad_1_Axis_LZ-</Trigger>
+
+    </Action>
+
+    <Action name="TurnRight" displayName="UI.TurnRight" ignoreModifiers="true">
+
+      <Trigger>Gamepad_1_Axis_LZ+</Trigger>
+
+    </Action>
+
+    <Action name="LookUp" displayName="UI.LookUp" ignoreModifiers="true">
+
+      <Trigger>Gamepad_1_Axis_RZ-</Trigger>
+
+    </Action>
+
+    <Action name="LookDown" displayName="UI.LookDown" ignoreModifiers="true">
+
+      <Trigger>Gamepad_1_Axis_RZ+</Trigger>
+
+    </Action>
+
+    <Action name="Jump" displayName="UI.Jump" ignoreModifiers="true">
+
+      <Trigger>Space</Trigger>
+
+      <Trigger>Gamepad_1_Button_1</Trigger>
+
+    </Action>
+
+    <Action name="SwapCamShoulder" displayName="UI.SwapCamShoulder" ignoreModifiers="true">
+
+      <Trigger>Control_Left</Trigger>
+
+    </Action>
+
+	<Action name="SeatChangeModifier" displayName="UI.SeatChangeModifier" ignoreModifiers="true">
+
+	  <Trigger>Control_Right</Trigger>
+
+    </Action>
+
+    <!-- <Action name="Crouch" displayName="UI.Crouch" ignoreModifiers="true">
+
+      <Trigger>Control_Left</Trigger>
+
+      <Trigger>Control_Right</Trigger>
+
+    </Action> -->
+
+    <Action name="CrouchToggle" displayName="UI.CrouchToggle" ignoreModifiers="true" version="1">
+
+      <Trigger>C</Trigger>
+
+      <Trigger>Gamepad_1_Button_11</Trigger>
+
+    </Action>
+
+    <Action name="ProneToggle" displayName="UI.ProneToggle" ignoreModifiers="true" version="1">
+
+      <Trigger>Z</Trigger>
+
+    </Action>
+
+    <Action name="Sprint" displayName="UI.SprintHoldBreath" ignoreModifiers="true">
+
+      <Trigger>Shift_Left</Trigger>
+
+      <Trigger>Shift_Right</Trigger>
+
+      <Trigger>Gamepad_1_Button_10</Trigger>
+
+    </Action>
+
+    <Action name="ToggleWalk" displayName="UI.ToggleWalk" events="Press" ignoreModifiers="false">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="Interact" displayName="UI.Interact" ignoreModifiers="true" version="2">
+
+      <Trigger>E</Trigger>
+
+      <Trigger>Gamepad_1_Button_0</Trigger>
+
+    </Action>
+
+    <Action name="ConsumeItem1" displayName="UI.UseFirstAid" ignoreModifiers="true" version="1">
+
+      <Trigger>Q</Trigger>
+
+      <Trigger>Gamepad_1_Button_Pov0Up</Trigger>
+
+    </Action>
+
+    <Action name="ConsumeItem2" displayName="UI.UseFirstAid2" ignoreModifiers="true" version="2">
+
+      <Trigger>F</Trigger>
+
+      <Trigger>Gamepad_1_Button_Pov0Down</Trigger>
+
+    </Action>
+
+    <!-- <Action name="UseAbility" displayName="UI.UseAbility" ignoreModifiers="true">
+
+      <Trigger>F</Trigger>
+
+    </Action> -->
+
+    <!-- <Action name="UseGrenade" displayName="UI.UseGrenade" ignoreModifiers="true">
+
+      <Trigger>G</Trigger>
+
+    </Action> -->
+
+    <!-- <Action name="UseBinoculars" displayName="UI.UseBinoculars" ignoreModifiers="true" version="1">
+
+      <Trigger>B</Trigger>
+
+    </Action> -->
+
+    <!-- <Action name="MeleeAttackQuick" displayName="UI.MeleeAttackQuick" ignoreModifiers="true" version="3">
+
+      <Trigger>V</Trigger>
+
+    </Action> -->
+
+    <Action name="InspectWeapon" displayName="UI.InspectWeapon" ignoreModifiers="true" version="1">
+
+      <Trigger>L</Trigger>
+
+    </Action>
+
+    <Action name="Reload" displayName="UI.ReloadPC" ignoreModifiers="true">
+
+      <Trigger>R</Trigger>
+
+      <Trigger>Gamepad_1_Button_3</Trigger>
+
+    </Action>
+
+    <Action name="Slot1" displayName="UI.GearSlot1" ignoreModifiers="true">
+
+      <Trigger>1</Trigger>
+
+    </Action>
+
+    <Action name="Slot2" displayName="UI.GearSlot2" ignoreModifiers="true">
+
+      <Trigger>2</Trigger>
+
+    </Action>
+
+    <Action name="Slot3" displayName="UI.GearSlot3" ignoreModifiers="true">
+
+      <Trigger>3</Trigger>
+
+    </Action>
+
+    <Action name="Slot4" displayName="UI.GearSlot4" ignoreModifiers="true">
+
+      <Trigger>4</Trigger>
+
+    </Action>
+
+    <Action name="Slot5" displayName="UI.GearSlot5" ignoreModifiers="true">
+
+      <Trigger>5</Trigger>
+
+    </Action>
+
+    <Action name="Slot6" displayName="UI.GearSlot6" ignoreModifiers="true">
+
+      <Trigger>6</Trigger>
+
+    </Action>
+
+    <Action name="Slot7" displayName="UI.GearSlot7" ignoreModifiers="true">
+
+      <Trigger>7</Trigger>
+
+    </Action>
+
+    <Action name="Slot8" displayName="UI.GearSlot8" ignoreModifiers="true">
+
+      <Trigger>8</Trigger>
+
+    </Action>
+
+    <Action name="Slot9" displayName="UI.GearSlot9" ignoreModifiers="true">
+
+      <Trigger>9</Trigger>
+
+    </Action>
+
+    <Action name="Slot10" displayName="UI.GearSlot10" ignoreModifiers="true">
+
+      <Trigger>0</Trigger>
+
+    </Action>
+
+    <Action name="Fire" displayName="UI.Fire" ignoreModifiers="true">
+
+      <Trigger>Mouse_0</Trigger>
+
+      <Trigger>Gamepad_1_Button_7</Trigger>
+
+    </Action>
+
+    <Action name="SecondaryFire" displayName="UI.SecondaryFire" ignoreModifiers="true">
+
+      <Trigger>Mouse_1</Trigger>
+
+      <Trigger>Gamepad_1_Button_6</Trigger>
+
+    </Action>
+
+    <!-- <Action name="TertiaryFire" displayName="UI.TertiaryFire" ignoreModifiers="true" version="1">
+
+      <Trigger>Mouse_3</Trigger>
+
+    </Action> -->
+
+    <Action name="ToggleWeaponAttachment" displayName="UI.ToggleWeaponAttachment" ignoreModifiers="true">
+
+      <Trigger></Trigger>
+
+    </Action>
+
+    <Action name="ToggleHideFp" displayName="UI.ToggleHideFp" ignoreModifiers="false">
+
+      <Trigger>Control+F11</Trigger>
+
+    </Action>
+
+    <Action name="SwitchFireGroup" displayName="UI.SwitchFireGroup" ignoreModifiers="true" version="1">
+
+      <Trigger>X</Trigger>
+
+    </Action>
+
+    <Action name="NextWeapon" displayName="UI.NextWeapon" ignoreModifiers="true" version="2">
+
+      <Trigger>MouseWheel-</Trigger>
+
+      <Trigger>Gamepad_1_Button_2</Trigger>
+
+    </Action>
+
+    <Action name="PreviousWeapon" displayName="UI.PreviousWeapon" ignoreModifiers="true" version="2">
+
+      <Trigger>MouseWheel+</Trigger>
+
+    </Action>
+
+    <Action name="ToggleAutoRun" displayName="UI.AutoRun" ignoreModifiers="true">
+
+      <Trigger>Equals</Trigger>
+
+    </Action>
+
+    <Action name="Freelook" displayName="Freelook" ignoreModifiers="true">
+
+      <Trigger>Alt_Left</Trigger>
+
+      <Trigger>Gamepad_1_Button_5</Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+  <ActionSet name="FreeFly">
+
+    <Action name="SpeedScalarUp">
+
+      <Trigger>Equals</Trigger>
+
+    </Action>
+
+    <Action name="SpeedScalarDown">
+
+      <Trigger>Minus</Trigger>
+
+    </Action>
+
+    <Action name="FreeLook" displayName="UI.FreeLook">
+
+      <Trigger>Mouse_1</Trigger>
+
+    </Action>
+
+    <Action name="MoveUp" displayName="UI.Ascend" ignoreModifiers="true">
+
+      <Trigger>Q</Trigger>
+
+    </Action>
+
+    <Action name="MoveDown" displayName="UI.Descend" ignoreModifiers="true">
+
+      <Trigger>Z</Trigger>
+
+    </Action>
+
+    <Action name="Sprint" displayName="UI.Sprint" ignoreModifiers="true">
+
+      <Trigger>Shift_Left</Trigger>
+
+      <Trigger>Shift_Right</Trigger>
+
+    </Action>
+
+    <Action name="IgnoreCollision" displayName="UI.IgnoreCollision" ignoreModifiers="true">
+
+      <Trigger>Control</Trigger>
+
+    </Action>
+
+    <Action name="FreeformTranslation" displayName="UI.FreeformTranslation">
+
+      <Trigger>T</Trigger>
+
+    </Action>
+
+    <Action name="FreeformRotation" displayName="UI.FreeformRotation">
+
+      <Trigger>R</Trigger>
+
+    </Action>
+
+    <Action name="FreeformScale" displayName="UI.FreeformScale">
+
+      <Trigger>Y</Trigger>
+
+    </Action>
+
+    <Action name="TurnLeft" displayName="UI.TurnLeft" ignoreModifiers="true" />
+
+    <Action name="TurnRight" displayName="UI.TurnRight" ignoreModifiers="true" />
+
+    <Action name="LookUp" displayName="UI.LookUp" ignoreModifiers="true" />
+
+    <Action name="LookDown" displayName="UI.LookDown" ignoreModifiers="true" />
+
+    <Action name="MoveForward" displayName="UI.MoveForward" ignoreModifiers="true">
+
+      <Trigger>Up</Trigger>
+
+      <Trigger>W</Trigger>
+
+    </Action>
+
+    <Action name="MoveBackward" displayName="UI.MoveBackward" ignoreModifiers="true">
+
+      <Trigger>Down</Trigger>
+
+      <Trigger>S</Trigger>
+
+    </Action>
+
+    <Action name="StrafeLeft" displayName="UI.StrafeLeft" ignoreModifiers="true">
+
+      <Trigger>Left</Trigger>
+
+      <Trigger>A</Trigger>
+
+    </Action>
+
+    <Action name="StrafeRight" displayName="UI.StrafeRight" ignoreModifiers="true">
+
+      <Trigger>Right</Trigger>
+
+      <Trigger>D</Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+  <ActionSet name="Spectator">
+
+    <Action name="Cam1" displayName="UI.SpectatePreset1" ignoreModifiers="true">  
+
+      <Trigger>6</Trigger>
+
+    </Action>
+
+    <Action name="Cam2" displayName="UI.SpectatePreset2" ignoreModifiers="true">
+
+      <Trigger>9</Trigger>
+
+    </Action>
+
+    <Action name="Cam3" displayName="UI.SpectatePreset3" ignoreModifiers="true">
+
+      <Trigger>7</Trigger>
+
+    </Action>
+
+    <Action name="Cam4" displayName="UI.SpectatePreset4" ignoreModifiers="true">
+
+      <Trigger>1</Trigger>
+
+    </Action>
+
+    <Action name="Cam5" displayName="UI.SpectatePreset5" ignoreModifiers="true">
+
+      <Trigger>2</Trigger>
+
+    </Action>
+
+    <Action name="Cam6" displayName="UI.SpectatePreset6" ignoreModifiers="true">
+
+      <Trigger>3</Trigger>
+
+    </Action>
+
+    <Action name="Cam7" displayName="UI.SpectatePreset7" ignoreModifiers="true">
+
+      <Trigger>4</Trigger>
+
+    </Action>
+
+    <Action name="Cam8" displayName="UI.SpectatePreset8" ignoreModifiers="true">
+
+      <Trigger>5</Trigger>
+
+    </Action>
+
+    <Action name="Cam9" displayName="UI.SpectatePreset9" ignoreModifiers="true">
+
+      <Trigger>8</Trigger>
+
+    </Action>
+
+    <Action name="CamZoomIn" displayName="UI.SpectateZoomIn" ignoreModifiers="true">
+
+      <Trigger>MouseWheel+</Trigger>
+
+    </Action>
+
+    <Action name="CamZoomOut" displayName="UI.SpectateZoomOut" ignoreModifiers="true">
+
+      <Trigger>MouseWheel-</Trigger>
+
+    </Action>
+
+    <Action name="CamDistanceOnMouseWheel" displayName="UI.SpectateCamDistanceOnMouseWheel" ignoreModifiers="true">
+
+      <Trigger>Shift_Left</Trigger>
+
+      <Trigger>Shift_Right</Trigger>
+
+    </Action>
+
+    <Action name="CamLock" displayName="UI.SpectateCamLock" ignoreModifiers="true">
+
+      <Trigger>Mouse_0</Trigger>
+
+    </Action>
+
+    <Action name="CamUnlock" displayName="UI.SpectateCamUnlock" ignoreModifiers="true">
+
+      <Trigger>Mouse_1</Trigger>
+
+    </Action>
+
+    <Action name="NextTarget" displayName="UI.SpectateNextTarget" ignoreModifiers="true">
+
+      <Trigger>E</Trigger>
+
+    </Action>
+
+    <Action name="PrevTarget" displayName="UI.SpectatePrevTarget" ignoreModifiers="true">
+
+      <Trigger>Q</Trigger>
+
+    </Action>
+
+    <Action name="ClosestTarget" displayName="UI.SpectateClosestTarget" ignoreModifiers="true">
+
+      <Trigger>R</Trigger>
+
+    </Action>
+
+    <Action name="CamNudgeLeft" displayName="UI.SpectateNudgeLeft" ignoreModifiers="true">
+
+      <Trigger>Z</Trigger>
+
+    </Action>
+
+    <Action name="CamNudgeRight" displayName="UI.SpectateNudgeRight" ignoreModifiers="true">
+
+      <Trigger>C</Trigger>
+
+    </Action>
+
+    <Action name="ToggleVsUi" displayName="UI.ToggleVsUi" ignoreModifiers="true">
+
+      <Trigger>V</Trigger>
+
+    </Action>
+
+    <Action name="ToggleVsGroupUi" displayName="UI.ToggleVsGroupUi" ignoreModifiers="true">
+
+      <Trigger>G</Trigger>
+
+    </Action>
+
+    <Action name="ToggleFullBodyShaders" displayName="UI.ToggleFullBodyShaders" ignoreModifiers="true">
+
+      <Trigger>F</Trigger>
+
+    </Action>
+
+    <Action name="CycleNamesOnNameplates" displayName="UI.CycleNamesOnNameplates" ignoreModifiers="true">
+
+      <Trigger>B</Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+  <ActionSet name="ProjectileDebugRecorder">
+
+    <Action name="CyclePrev">
+
+      <Trigger>KP_4</Trigger>
+
+    </Action>
+
+    <Action name="CycleNext">
+
+      <Trigger>KP_6</Trigger>
+
+    </Action>
+
+    <Action name="ToggleRender">
+
+      <Trigger>KP_5</Trigger>
+
+    </Action>
+
+  </ActionSet>
+
+</Profile>
+
